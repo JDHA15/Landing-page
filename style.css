@@ -1,0 +1,57 @@
+#logo{
+    width: 12%;
+    height: 8%;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+li{
+    display: inline;
+    margin-left: 20px;
+    font-size: 20px;
+    color: #000;
+    position: relative;
+    right: -20%;
+    color: rgb(3, 3, 97);
+    
+}
+
+#IA{
+    width: 17px;
+    height: 17px;
+    position: relative;
+    left: -7%;
+}
+
+#services{
+    position: relative;
+    right: -31%;
+    text-align: center;
+    width: 110px;
+    height: 35px;
+    background-color: white;
+    border: 1px blue solid;
+    border-radius: 5px;
+    color: blue;
+    justify-content: center;
+    align-items: center;
+}
+
+#get{
+    position: relative;
+    right: -32%;
+    text-align: center;
+    padding: 9px;
+    background-color: rgb(3, 3, 97);
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+header{
+    border: 1px gray solid;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+    padding-bottom: 3%;
+}
